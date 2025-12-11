@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import CoinDetail from "./Pages/CoinDetail";
+import CoinDetail from "./pages/CoinDetail";
 import { Coin } from "./pages/Coin";
 
 function App() {

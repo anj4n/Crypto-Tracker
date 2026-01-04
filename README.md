@@ -11,4 +11,3 @@ Implemented component-based architecture and React routing.
 
 Handled async API calls smoothly for real-time updates.
 
-Tech Stack: React JS, CoinGecko API, JavaScript (ES6+), CSS, Tailwind CSS, HTML, Axios, React Router

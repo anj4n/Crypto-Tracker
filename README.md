@@ -30,7 +30,7 @@ CoinGecko API
 React Hooks
 
 ⚙️ Setup (Local)
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/anj4n/crypto-tracker.git
 cd crypto-tracker
 npm install
 npm start

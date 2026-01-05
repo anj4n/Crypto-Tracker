@@ -1,13 +1,49 @@
 
-Developed a cryptocurrency tracking web app using React JS.
+🚀 Crypto Tracker (React)
 
-Integrated CoinGecko API to display real-time price, market cap, volume, and historical data.
+A cryptocurrency tracking web app built with React JS that displays real-time market data using the CoinGecko API.
 
-Built a dynamic coin list with search and filtering functionality.
+🔗 Live Demo: 
 
-Created a detailed coin page for individual coin insights.
+✨ Features
 
-Implemented component-based architecture and React routing.
+Real-time cryptocurrency prices
 
-Handled async API calls smoothly for real-time updates.
+Market cap & 24h trading volume
 
+Search and filter functionality
+
+Detailed individual coin pages
+
+Historical price data
+
+Client-side routing using React Router
+
+🛠 Tech Stack
+
+React JS
+
+React Router
+
+CoinGecko API
+
+React Hooks
+
+⚙️ Setup (Local)
+git clone https://github.com/your-username/crypto-tracker.git
+cd crypto-tracker
+npm install
+npm start
+
+
+Runs on http://localhost:3000
+
+📚 What I Learned
+
+Integrating real-world APIs
+
+Handling async data with hooks
+
+Building scalable component-based UI
+
+Implementing dynamic routing in React

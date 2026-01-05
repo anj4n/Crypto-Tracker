@@ -3,7 +3,7 @@
 
 A cryptocurrency tracking web app built with React JS that displays real-time market data using the CoinGecko API.
 
-🔗 Live Demo: 
+🔗 Live Demo: https://crypto-tracker-j32i-g3mdmtj11-anjan-thapas-projects.vercel.app/
 
 ✨ Features
 
